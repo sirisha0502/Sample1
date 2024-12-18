@@ -7,12 +7,17 @@ public class SampleTest1
     @Test
     public void m1()
     {
-    	System.out.println("I am Moukthika");
+    	System.out.println(" hello I am Moukthika");
     }
     @Test
     public void m2()
     {
-    	System.out.println("I am Ruthvika");
+    	System.out.println("hello I am Ruthvika");
+    }
+    @Test
+    public void m3()
+    {
+    	System.out.println("hello");
     }
     @Test
     public void m3()
