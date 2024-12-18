@@ -14,4 +14,9 @@ public class SampleTest1
     {
     	System.out.println("I am Ruthvika");
     }
+    @Test
+    public void m3()
+    {
+    	System.out.println("hello I am sirisha");
+    }
 }
