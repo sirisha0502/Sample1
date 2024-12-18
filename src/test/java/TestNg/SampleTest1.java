@@ -20,7 +20,7 @@ public class SampleTest1
     	System.out.println("hello");
     }
     @Test
-    public void m3()
+    public void m4()
     {
     	System.out.println("hello I am sirisha");
     }
